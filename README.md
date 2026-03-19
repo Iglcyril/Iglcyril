@@ -17,7 +17,7 @@
 └─$ cat whoami.txt
 
   Nom          : Cyril Iglesias
-  Localisation : Pamiers, France 🇫🇷
+  Localisation : France 🇫🇷
   Statut       : Étudiant en Cybersécurité @ Holberton School
   Focus        : Sécurité offensive & défensive
   Objectif     : Devenir Pentester / Analyste SOC
