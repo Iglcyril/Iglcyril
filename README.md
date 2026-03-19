@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Bannière style code matrix 3D -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=CYRIL&fontSize=90&color=00FF41&stroke=00FF41&strokeWidth=2&fontColor=00FF41&animation=fadeIn&desc=Cybersecurity%20Student%20%7C%20CTF%20Player&descSize=18&descAlignY=78&theme=dark&bg=0D0D0D" width="100%"/>
+![Banner](./banner.png)
 
-<!-- Texte défilant Matrix -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+%5BACCESS+GRANTED%5D;%3E+Comprendre+pour+mieux+prot%C3%A9ger.;%3E+CTF+Player+%7C+Ethical+Hacker+in+training;%3E+Basé+à+Pamiers%2C+France+%F0%9F%87%AB%F0%9F%87%B7)
 
 </div>
@@ -17,7 +15,7 @@
 └─$ cat whoami.txt
 
   Nom          : Cyril Iglesias
-  Localisation : France 🇫🇷
+  Localisation : Pamiers, France 🇫🇷
   Statut       : Étudiant en Cybersécurité @ Holberton School
   Focus        : Sécurité offensive & défensive
   Objectif     : Devenir Pentester / Analyste SOC
@@ -28,7 +26,7 @@
 
 ## 💬 Motivation
 
-> *Ce qui me passionne dans la cybersécurité, c'est de comprendre en profondeur comment les systèmes fonctionnent, leurs forceset leurs failles pour mieux les défendre et protéger ceux qui en dépendent.*
+> *Ce qui me passionne dans la cybersécurité, c'est de comprendre en profondeur comment les systèmes fonctionnent — leurs forces, leurs failles — pour mieux les défendre et protéger ceux qui en dépendent.*
 
 ---
 
