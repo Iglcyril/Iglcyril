@@ -28,7 +28,7 @@
 
 ## 💬 Motivation
 
-> *Ce qui me passionne dans la cybersécurité, c'est de comprendre en profondeur comment les systèmes fonctionnent — leurs forces, leurs failles — pour mieux les défendre et protéger ceux qui en dépendent.*
+> *Ce qui me passionne dans la cybersécurité, c'est de comprendre en profondeur comment les systèmes fonctionnent, leurs forceset leurs failles pour mieux les défendre et protéger ceux qui en dépendent.*
 
 ---
 
