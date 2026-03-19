@@ -2,7 +2,7 @@
 
 ![Banner](./banner2.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+%5BACCESS+GRANTED%5D;%3E+Comprendre+pour+mieux+prot%C3%A9ger.;%3E+CTF+Player+%7C+Ethical+Hacker+in+training;%3E+Basé+à+Pamiers%2C+France+%F0%9F%87%AB%F0%9F%87%B7)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+%5BACCESS+GRANTED%5D;%3E+Comprendre+pour+mieux+prot%C3%A9ger.;%3E+CTF+Player+%7C+Ethical+Hacker+in+training;%3E+Basé+en%2C+France+%F0%9F%87%AB%F0%9F%87%B7)
 
 </div>
 
